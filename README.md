@@ -11,6 +11,15 @@ Clean up:<br><br>
 ![Before](https://i.imgur.com/8p051HB.png)<br>
 ![After](https://i.imgur.com/t2UQG8y.png)
 <br>
+
+Input txt file with passwords:
+
+![Input txt of passwords](https://imgur.com/xEKftve.png)
+
+Result in terminal:
+
+![Terminal output](https://i.imgur.com/Ba8eWi9.png)
+
 Use at your own risk!
 <br>
 <h2>Usage</h2>
