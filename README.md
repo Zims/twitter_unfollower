@@ -7,7 +7,7 @@ You can costumize how many unfollows to do.
 Use it only for cleaning up your account.<br>
 After 180 unfollows got kicked by twitter. Not sure for how long. (Back in after 10 minutes)
 <br>
-Clean up<br>
+Clean up:<br>
 ![Before](https://imgur.com/8p051HB)<br>
 ![After](https://imgur.com/8p051HB)
 <br>
