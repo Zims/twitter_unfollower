@@ -19,7 +19,9 @@ Use at your own risk!
 Download the project
 <br><pre>
 pip install pipenv<br>
+</pre>
 or<br>
+<pre>
 pip3 install pipenv
 pipenv shell
 pipenv install
