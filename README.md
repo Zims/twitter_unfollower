@@ -8,8 +8,8 @@ Use it only for cleaning up your account.<br>
 After 180 unfollows got kicked by twitter. Not sure for how long. (Back in after 10 minutes)
 <br>
 Clean up:<br>
-![Before](https://imgur.com/8p051HB)<br>
-![After](https://imgur.com/8p051HB)
+![Before](https://i.imgur.com/8p051HB.png)<br>
+![After](https://i.imgur.com/8p051HB.png)
 <br>
 Use at your own risk!
 <br>
