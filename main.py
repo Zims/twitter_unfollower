@@ -48,7 +48,8 @@ def unfollow_one():
         print('done')
 
 i = 0
-while i < 5:
+# set the number of accounts to unfollow bellow. default is 5
+while i < 5: 
     unfollow_one()
     time.sleep(2)
     i += 1
