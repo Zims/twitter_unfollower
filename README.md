@@ -14,11 +14,10 @@ Clean up:<br><br>
 
 Input txt file with passwords:
 
-![Input txt of passwords](https://imgur.com/xEKftve.png)
-
+![Before](https://i.imgur.com/8p051HB.png)
 Result in terminal:
 
-![Terminal output](https://i.imgur.com/Ba8eWi9.png)
+![After](https://i.imgur.com/t2UQG8y.png)
 
 Use at your own risk!
 <br>
