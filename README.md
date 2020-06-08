@@ -18,11 +18,11 @@ Use at your own risk!
 <h2>Usage</h2>
 Download the project
 <br><pre>
-pip install pipenv<br>
+pip install pipenv
 </pre>
 or<br>
 <pre>
-pip3 install pipenv
+pip3 install pipenv</pre><pre>
 pipenv shell
 pipenv install
 </pre>
