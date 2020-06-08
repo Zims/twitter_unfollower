@@ -18,11 +18,13 @@ Use at your own risk!
 <h2>Usage</h2>
 Download the project
 <br><pre>
-pip install pipenv
+pip install pipenv<br>
+or<br>
+pip3 install pipenv
 pipenv shell
 pipenv install
 </pre>
-There is also the chromedriver in the folder. And the script is set up to use it. But you can use your own. Just change the code. If you are new search - chromedriver for selenium. 
+There is also the chromedriver in the folder. And the script is set up to use it. But you can use your own. Just change the code. If you are new search - "chromedriver for selenium".<br> 
 Version 83
 <br>
 <h2>Run it</h2>
