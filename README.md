@@ -8,14 +8,8 @@ Use it only for cleaning up your account.<br>
 After 180 unfollows got kicked by twitter. Not sure for how long. (Back in after 10 minutes)
 <br>
 Clean up:<br><br>
-![Before](https://i.imgur.com/8p051HB.png)<br>
-![After](https://i.imgur.com/t2UQG8y.png)
-<br>
-
-Input txt file with passwords:
 
 ![Before](https://i.imgur.com/8p051HB.png)
-Result in terminal:
 
 ![After](https://i.imgur.com/t2UQG8y.png)
 
