@@ -44,3 +44,14 @@ secret.MY_URL
 </pre>
 with your info to log in.
 There are comments in the code file. Just follow the instructions.
+<br><h2>or</h2>
+<h3>How I run it</h3>
+I have another file with my credentials set up.<br>
+I have a file in the same directory<br>
+secret.py<br>
+<pre>
+secret.PASS = "Your twitter pass"
+secret.USER = "Your twitter username"
+secret.MY_URL = "URL to your twitter following page"
+</pre>
+<br>
