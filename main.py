@@ -7,7 +7,7 @@ import time
 import secret
 
 
-driver = webdriver.Chrome(secret.PATH)  
+driver = webdriver.Chrome('.//chromedriver')  
 # Specify your PATH to chromedriver, if not specified will search path.
 
 driver.get(secret.MY_URL) #<- url of profile_USER/following
@@ -49,7 +49,7 @@ def unfollow_one():
 
 i = 0
 # set the number of accounts to unfollow bellow. default is 5
-while i < 5: 
+while i < 500: 
     unfollow_one()
-    time.sleep(2)
+    time.sleep(1)
     i += 1
